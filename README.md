@@ -1,8 +1,8 @@
-# 👨‍💻 Rohit Penta
+# 👨‍💻 Rohit
 
 **`Software Developer | AI/ML, CI/CD, DevOps`**
 
-I am a software engineer passionate backend development and AI models. I love automating complex systems into streamlined, elegant, and highly efficient workflows.
+Hey there! I'm a software engineer passionate backend development and AI models. I love automating complex systems into streamlined, elegant, and highly efficient workflows.
 
 ### 🧰 Languages and Tools
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
@@ -22,6 +22,15 @@ I am a software engineer passionate backend development and AI models. I love au
 <br />
 <br />
 
-## ⚡️ Website
+## 📈 GitHub Stats
 
-- replacelater.com
+![Rohit's GitHub stats](https://github-readme-stats.vercel.app/api?username=rohitp30&show_icons=true&theme=radical)
+
+## 📫 Get in Touch
+
+Feel free to reach out if you want to discuss tech, collaborate on a project, or just say hi!
+
+- 📧 Email: [me@rpenta.com](mailto:me@rpenta.com)
+- 💼 LinkedIn: [Rohit](https://www.linkedin.com/in/rohitp30)
+- 📂 Website: [Website](https://rpenta.com)
+
